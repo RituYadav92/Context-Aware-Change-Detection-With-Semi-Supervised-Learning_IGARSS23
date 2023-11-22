@@ -5,7 +5,7 @@ Change detection using earth observation data plays a vital role in quantifying 
 
 [https://ieeexplore.ieee.org/abstract/document/10283039](https://ieeexplore.ieee.org/document/10281798)
 
-<img src="https://github.com/RituYadav92/Context-Aware-Change-Detection-With-Semi-Supervised-Learning_IGARSS23/blob/main/CACDN_2.JPG" alt="Flood Sites" width="650" height="300">
+<img src="https://github.com/RituYadav92/Context-Aware-Change-Detection-With-Semi-Supervised-Learning_IGARSS23/blob/main/CACDN_2.JPG" alt="Flood Sites" width="650" height="500">
 
 
 ## If you are using this work, please cite:
